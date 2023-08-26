@@ -1,5 +1,5 @@
 CODSOFT INTERNSHIP
 
-TASK 1:CREATE A LANDING PAGE
+TASK 1: CREATE A LANDING PAGE
 
-LIVE:
+LIVE:https://kaneezf.github.io/landing_page/
