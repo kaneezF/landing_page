@@ -52,7 +52,7 @@ nav ul {
     height: 100vh;
     color: white;
     background-size: cover;
-    background-image:  url(images/bg-1.png);
+    background-image:  url(/images/bg-1.png);
     background-size: cover; 
     font-size: 6rem;
 }
